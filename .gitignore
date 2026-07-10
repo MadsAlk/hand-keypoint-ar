@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pt
+*.bag
+*.zip
+*.rar
+*.npy
+*.dcm
+data/
+.DS_Store
+Thumbs.db
